@@ -1,6 +1,5 @@
 - 👋 Hi, I’m AbdulRahman Jlilati
-- 👀 I’m interested in Back-end Development
-- 🌱 I’m currently learning PHP/Laravel
+- 👀 Laravel Developer
 - 📫 How to reach me -->  Twitter @jlilati_
 - 
-- E-Mail:  abodoom539@gmail.com
+- E-Mail:  abodoom539@gmail.com 
