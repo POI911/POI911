@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AbdulRahman Jlilati
 - 👀 Laravel Developer
-- 📫 How to reach me -->  Twitter @jlilati_
 - 
-- E-Mail:  abodoom539@gmail.com 
+- 
+- E-Mail:  abdulrahman.o.jlilati@gmail.com 
